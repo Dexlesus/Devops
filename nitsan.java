@@ -1,7 +1,7 @@
 public class nitsan{
 	public static void main(String[] args) {
 		for (int i=1;i<=11; i++) {
-			System.out.println("Nitsan !! ..."+i);
+			System.out.println("Nitsan fdfd!! ..."+i);
 		}
 	}
 }
